@@ -1,0 +1,13 @@
+.navbar-brand span{
+  color: cyan;
+  font-weight: bolder;
+  text-shadow: 2px solid black;
+}
+
+.row{
+  margin: 0;
+}
+
+h1 center{
+  text-transform: capitalize;
+}
