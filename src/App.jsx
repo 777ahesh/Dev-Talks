@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Navbar from './components/Navbar'
-import NewsComponent from '../../NewsComponent'
 import {
   BrowserRouter,
   Routes,
